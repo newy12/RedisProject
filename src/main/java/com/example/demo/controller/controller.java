@@ -55,5 +55,5 @@ public class controller {
         System.out.println("boardMasterRepository = " + boardMasterRepository.count());
         System.out.println("board1 = " + board1);
         return "redirect:/";
-    }//커밋테스트7
+    }//커밋테스트8
 }
